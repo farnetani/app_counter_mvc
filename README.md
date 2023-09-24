@@ -9,7 +9,7 @@ flutter run
 ```
 <br>
 
-Fonte: [![Tudo sobre Arquietura MVC Parte1](https://youtu.be/-g5CiOf8cYE)]
+Fonte: [Tudo sobre Arquietura MVC Parte1](https://youtu.be/-g5CiOf8cYE)
 
 ## :memo: License
 
